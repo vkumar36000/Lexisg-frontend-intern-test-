@@ -150,7 +150,7 @@ lexisg-frontend-intern-test/
 > If deployed, include a link here.
 
 ```md
-[View the deployed site](https://your-site.netlify.app)
+[View the deployed site](https://vk-lexisg-frontend-intern-test.netlify.app/)
 ```
 
 ---
