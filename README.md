@@ -45,7 +45,7 @@ The app supports the following six queries:
 1. **Motor accident future prospects**
 
    ```
-  In a motor accident claim where the deceased was self-employed and aged 54–55 
+In a motor accident claim where the deceased was self-employed and aged 54–55 
 years at the time of death, is the claimant entitled to an addition towards future 
 prospects in computing compensation under Section 166 of the Motor Vehicles Act, 
 1988? If so, how much?
